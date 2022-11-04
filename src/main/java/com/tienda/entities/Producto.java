@@ -23,5 +23,4 @@ public class Producto implements Serializable{
 	private String nombre;
 	private String descripcion;
 	
-	
 }
